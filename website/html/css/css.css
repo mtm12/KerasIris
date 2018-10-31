@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #EFEFEF;
+}
+
+.header {
+	font-size: 25px;
+	text-align: center;
+}
+
+.title {
+	font-size: 25px;
+}
+
+.measurement_inputs {
+	font-size: 18px;
+	font-family: Arial, "sans-serif";
+	text-align: right;
+}
+
+.output {
+	font-size: 18px;
+	font-family: Arial, "sans-serif";
+	text-align: right;
+	background-color: #EFEFEF;
+	
+}
+
+.center {
+	text-align: center;
+}
+
+.ref_header {
+	font-size: 15px;
+	font-family: Arial, "sans-serif";
+}
+
+.predict_btn {
+	font-size: 18px;
+	font-family: Arial, "sans-serif";
+	background-color: #DED7F2;
+}
