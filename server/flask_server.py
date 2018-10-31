@@ -24,4 +24,4 @@ if __name__=='__main__':
 	print("loading iris model")
 	irisModel = load_model('iris_model.h5')
 	print("iris model loaded")
-	app.run(host='132.148.22.25', port=5000)
+	app.run(host='xxx.xxx.xxx.xxx', port=5000)
